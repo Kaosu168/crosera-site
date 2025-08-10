@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <rect width="100%" height="100%" fill="#ffefd5"/>
+  <g transform="translate(100,150)">
+    <rect x="0" y="0" width="600" height="300" rx="20" fill="#fff8f0" stroke="#f1c0a0" stroke-width="6"/>
+    <text x="300" y="160" font-size="48" text-anchor="middle" fill="#c66">Crochet Scarf</text>
+  </g>
+</svg>
